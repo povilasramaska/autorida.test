@@ -1,0 +1,70 @@
+* {
+	    box-sizing: border-box;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #9a9da0;
+}
+h3{
+	text-align: center;
+	color:#fd4400;
+	margin:0.25rem;
+}
+
+/*navigacija*/
+.nav-link.myg, .nav-link.myg:active{
+	border: 1px solid #fd4400;
+	border-radius: 0.25rem;
+	color:#fd4400;
+}
+.navbar-brand.custom,.navbar-brand.custom:active, .navbar-brand.custom:hover {
+	color:#fd4400;
+}
+
+/*karusele*/
+
+.slide{
+	max-height: 90vh;
+	width: 100%;
+	opacity:0.8;
+}
+.car {
+	font-size:10vw;
+	color:#fd4400;
+}
+.carp {
+	font-size:4vw;
+	color:#fd4400;
+}
+
+.btn.btn-outline-warning.carbtn{
+	color:#fd4400;
+	font-size: 1rem;
+}
+.btn.btn-outline-warning.carbtn:hover{
+	background-color: #fd4400;
+}
+/*kategorijos*/
+.kategorija{
+	border: 2px solid white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.card-title.card-header{
+	color:#fd4400;
+	text-align: center;
+}
+/*kontaktai*/
+
+.gogl{
+	margin:0 auto;
+}
+/*footer*/
+
+.bg-dark.fixed-bottom.custom{
+	color:#fd4400;
+	text-align: center;
+	padding: 2px;
+}
+/**/
